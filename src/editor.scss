@@ -1,0 +1,25 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-ctcl-order-status {
+	border: 1px dotted #f00;
+}
+
+#ctcl-order-status-check-fieldset{
+	border:1px dotted rgba(0,0,0,1);
+}
+#ctcl-order-status-check-fieldset legend{
+	margin-left:auto;
+	margin-right: auto;
+	display:block;
+}
+
+#ctcl-order-status-check-fieldset div{
+	margin-left:100px;
+	margin-top:50px;
+	margin-bottom:20px;
+	
+}
